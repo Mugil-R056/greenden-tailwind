@@ -16,7 +16,7 @@ A brief description of your project goes here. This project is built using HTML 
 To get started with this project, clone the repository and open the `index.html` file in your web browser.
 
 ```bash
-git clone https://mugil-r056.github.io/greenden-tailwind/
+git clone https://github.com/Mugil-R056/greenden-tailwind.git
 ```
 
 ## Usage
